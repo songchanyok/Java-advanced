@@ -89,6 +89,6 @@ public class Order {
 							"주문 가격 : "+orderPrice+"\n"+
 							"메뉴 번호 : "+menuNum);
 	}
-	
+	//각각 println으로 쓸 수 있다. 답안 확인함. 브랜치 연습
 	
 }
