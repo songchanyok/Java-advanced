@@ -1,11 +1,10 @@
 package com.chap6.interf.mart;
 
 import java.math.BigDecimal;
-import java.math.RoundingMode;
 
-public class Beauty extends Product implements DeliveryChargeCalculator{
+public class Beauty extends Product {
 
-
+    
     public Beauty(String name, BigDecimal price, BigDecimal weight) {
         super(name, price, weight);
     }
